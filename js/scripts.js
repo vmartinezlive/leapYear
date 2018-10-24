@@ -1,11 +1,23 @@
 // Business Logic
 function leapYear(year) {
-  if (year % 4 === 0) {
-    return true
+  if (year % 400 === 0) {
+      return true
   } else {
-    return false;
+      return false;
   }
+
+   // if  (year % 100 !== 0) {
+  //     return true
+  // } else {
+  //   return false;
+  // }
+  // if (year % 4 === 0) {
+  //   return true
+  // } else {
+  //   return false;
+  // }
 }
+
 
 // User Interface Logic
 $(document).ready(function(){
