@@ -26,12 +26,8 @@ Output Example: true
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
+* Clone repository to your desktop
+* Open index.html at any browser
 
 
 ## Known Bugs
